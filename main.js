@@ -1,3 +1,5 @@
 'use strict';
 
-console.log("main.jsをロードした");
+window.addEventListener("load", function() {
+    console.log("main.jsをロードした");
+});
